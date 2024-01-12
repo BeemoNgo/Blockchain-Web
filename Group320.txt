@@ -1,0 +1,10 @@
+Google Account
+Username: group320.2023@gmail.com
+Password: Weare320!
+
+Neo4j
+Sign-in with Google Account
+
+Infura
+Username: group320.2023@gmail.com
+Password: Weare320!
